@@ -13,7 +13,7 @@ Para testar o projeto, siga os passos abaixo:
     Pegue sua chave aqui : https://www.clarifai.com/
 
 
-#Modo de uso do projeto:
+#Modo de uso do projeto
 
 Sua principal função é reconhecer faces humanas a partir de uma imagem;
 
